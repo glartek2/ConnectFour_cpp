@@ -1,0 +1,3 @@
+/home/glartek/CPP_lab/project/build/CMakeFiles/ConnectFour.dir
+/home/glartek/CPP_lab/project/build/CMakeFiles/edit_cache.dir
+/home/glartek/CPP_lab/project/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/glartek/CPP_lab/project/build",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -o CMakeFiles/ConnectFour.dir/main.cpp.o -c /home/glartek/CPP_lab/project/main.cpp",
+  "file": "/home/glartek/CPP_lab/project/main.cpp"
+}
+]

@@ -1,0 +1,25 @@
+{
+    "version": "0.2",
+    "configurations": [
+        {
+            "name": "Connect Four Debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/ConnectFour", // Replace with your executable's name
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            //"preLaunchTask": "C/C++: g++ build active file" // This task is defined in tasks.json, make sure it's appropriate
+        }
+    ]
+}
